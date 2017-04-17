@@ -1,9 +1,3 @@
-//
-//  main.cpp
-//  SIMD_TEST
-//
-//  Created by Daisuke on 2013/12/16.
-//  Copyright (c) 2013年 吉澤 大輔. All rights reserved.
 
 #include <iostream>
 #include <memory>
