@@ -13,6 +13,8 @@
 //#include <wmmintrin.h> //AES
 #include <immintrin.h> //AVX
 
+#include <chrono>
+
 using namespace::std;
 
 template<typename T>
